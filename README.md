@@ -5,8 +5,8 @@ https://www.udemy.com/course/the-complete-web-development-bootcamp/
 </br>
 <img src="images/index.png">  
 </br>
-<img src="images/player1-win.png">
+<img src="images/player1-win.png">  
 </br>
 <img src="images/player2-win.png">  
 </br>
-<img src="images/draw.png">
+<img src="images/draw.png">  
